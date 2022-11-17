@@ -16,8 +16,11 @@
 # SECTION 0: LESSON OVERVIEW
 ## Lesson Information
 Lesson Title: **Object_HERE Verb_HERE**
+
 Program of Instruction (POI): **NUMBER-TOPIC_NAME / Version 1.0**
+
 **Effective Date**: YYYMMDD-V#
+
 Developer Point of Contact: first.last@email.tld
 
 ---
