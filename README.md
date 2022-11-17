@@ -17,7 +17,7 @@ This markdown structure is best when used with [Obsidian](https://obsidian.md/) 
 2. LanguageTool Integration (Spellcheck)
 
 To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or “Unfold”}  or configure a keyboard shortcut using the app preferences
-![[Pasted image 20221116204301.png]] 
+![](Resources/Images/Pasted image 20221116204301.png)
 ### ELM
 Training is designed largely based on the Experiential Learning Model (ELM) which is taught at SWCS Course Faculty Course and is a private sector standard as well.
  
