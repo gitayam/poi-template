@@ -3,8 +3,8 @@
 | 0       | Course Start                      | 45            | Instruction (Resident)    |
 | 1       | MacOS                             | 30            | Instruction (Resident)    |
 | 2       | Identity and Signature Management | 130           | Guest Instructor          |
-| 2b      | Ad Tech, Account Hardening        | 45            | Instruction (Resident)    |
-| 2       | Managed Attribution               | 45            | Instruction (Resident)    |
+| 2b      | Alternate Stuff, Account Hardening        | 45            | Instruction (Resident)    |
+| 2       | Stuff               | 45            | Instruction (Resident)    |
 | 3       | Email Aliases                     | 15            | Instruction (Resident)    |
 | 3       | DFP Terms                         | 15            | Distributed (Asynchronos) |
 | 3       | Account Authentication            | 60            | Instruction (Resident)    |
