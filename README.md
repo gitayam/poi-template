@@ -1,10 +1,17 @@
 # Download Template
 1. Graphical Option: Use the Download Button Above
-1. Terminal Option (Recommended): `git clone https://gitlab.irregularchat.com/saclab/poi-development.git`
+1. Terminal Option (Recommended): 
+
+```BASH
+git clone https://gitlab.irregularchat.com/saclab/poi-development.git
+```
+
 
 ## Update Template
 You must navigate to be inside the directory poi-development and execute the following command:
-`git pull https://gitlab.irregularchat.com/saclab/poi-development.git`
+```BASH
+git pull
+```
 
 # NOTE
 This structure has been developed after over a year of course development, instruction, and with TRADOC Doctrine, and the SWCS Course Developer Course referenced. Fair warining, there is a lot of reading.
