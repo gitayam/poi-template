@@ -8,7 +8,6 @@
 ### Instructing or Conducting Unit Training (READING)
 1. Use this lesson plan to rehearse, to identify or plan requirements, and to provide necessary onboarding to instructors
 	1. Printing the "Advanced Organizer" for each lesson and using it as needed during the lesson is the best approach rather than printing this lesson plan.
-2. 
 
 
 ---
