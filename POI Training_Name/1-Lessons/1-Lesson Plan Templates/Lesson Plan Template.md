@@ -25,18 +25,33 @@ Developer Point of Contact: first.last@email.tld
 
 ---
 ##  IMPORTANT
- Training Material Classification: UNCLASSIFIED
- Distribution Restriction:
+
+### Training Material Classification: UNCLASSIFIED
+### Distribution Restriction:
   %%Delete all but appropriate%%
+  
+ - A. Approved for public release; distribution is unlimted
  - B. Distribution authorized to U.S. Government agencies only.
- Destruction Notice: 
+ - C. Distribution authorized to U.S. agencies and their contractors only \<INSERT REASON\>. This determination as made on \<INSERT DATE\>. 
+ -  D. Distribution authorized to the DOD and DOD Contractors \<INSERT REASON\>. This determinaton was made on \<INSERT DATE\>
+ - E. Distribution authorized to DOD component only \<INSERT REASON\>. This determinaton was made on \<INSERT DATE\>
+ - F. Further determination only as directed by \<INSERT Office Symbol and Address\> or higher authority. This determination was made on \<INSERT DATE\>. 
+
+### Destruction Notice: 
+
  - N/A for project: automatically rendered based on Distribution Restriction
- Foreign Disclosure:
+
+### Foreign Disclosure:
+
  %%Delete all but appropriate%%
+ 
+- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students for all approved countries.
+- FD2 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students when specific criteria are met.
 - FD3 - This training product has been reviewed by the developers in coordination with the \<INSERT ORGANIZATION\> foreign disclosure officer. This product CANNOT be used to instruct international military students.
 ---
 ## SCOPE OF LESSON
  %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
+ 
 This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state**** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures, and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments, and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
