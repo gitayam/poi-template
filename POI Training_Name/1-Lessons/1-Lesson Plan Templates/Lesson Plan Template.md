@@ -48,6 +48,7 @@ Developer Point of Contact: first.last@email.tld
 - FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students for all approved countries.
 - FD2 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students when specific criteria are met.
 - FD3 - This training product has been reviewed by the developers in coordination with the \<INSERT ORGANIZATION\> foreign disclosure officer. This product CANNOT be used to instruct international military students.
+
 ---
 ## SCOPE OF LESSON
  %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
@@ -146,27 +147,23 @@ Lesson Material, Ammo, Expendable, etc.
 
 ---
 ## Lesson Timeline
-| Academic (y/n) | EST TIME Min | Methods                        |
-| -------------- | ------------ | ------------------------------ |
-| Instructor     | 30           | Instructor Rehearsal           |
-| Instructor     | 15           | Classroom Setup                |
-| y              | 45           | Concrete Experience            |
-| y              | 30           | Publish and Process            |
-| y              |              | Generalize New Information     |
-| y              |              | Develop                        |
-| y              |              | Generalize New Information     |
-| y              |              | Develop                        |
-| y              |              | Apply                          |
-| y              |              | Assessment / Check On Learning |
-|                |              |                                |
-| END            | 75           | 1.5                            |
-<!-- TBLFM: @>$2=sum(@I..@-1) -->
-<!-- TBLFM: @>$3=(@>$2/50) -->
+| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
+| -------------- | ----------- | ------------ | ------------------------------ |
+| Instructor     |             | 5            | Instructor Rehearsal           |
+| Instructor     |             | 0            | Classroom Setup                |
+| y              |             | 5            | Concrete Experience            |
+| y              |             | 3            | Publish and Process            |
+| y              |             | 10           | Generalize New Information     |
+| y              |             | 3            | Develop                        |
+| y              |             | 10           | Generalize New Information     |
+| y              |             | 3            | Develop                        |
+| y              |             | 5            | Apply                          |
+| y              |             | 3            | Assessment / Check On Learning |
+|                |             |              |                                |
+| END            | 0           | 44           | 0.88                           |
+<!-- TBLFM: @>$3=sum(@I..@-3) -->
+<!-- TBLFM: @>$4=(@>$3/50) -->
 
-
-
-
----
 ---
 # SECTION 2: LESSON INTRODUCTION
 ## **Concrete Experience / Motivator:** 
@@ -188,9 +185,13 @@ NOTE: Go to Slide X
 
 **Scope Statement:** During this ##.##-hour block of instruction, the
 students will...
+
 ## Publish and Process
+
 NOTE: for 
+
 # SECTION 3: LESSON PRESENTATION
+Generalize New Information, Develop, and Apply
 
 ## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
 
