@@ -3,7 +3,7 @@
 ### **Action:** __Approved-Verb Object Qualifier.__
 
 ### **Conditions:** 
-Given an environment that allows the Soldiers to engage
+Given an environment that allows the students to engage
 one another and the cadre openly, handouts, and research capabilities.
 
 ### **Standards:** 

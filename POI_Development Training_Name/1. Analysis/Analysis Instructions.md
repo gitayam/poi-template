@@ -3,7 +3,7 @@ Use the Developer Workbook when possible from the download [Link](https://u.pclo
 
 # Problem Statement
 (TP 350-70-14, Par  3-7)
-Write a problem statement to specify the gap in performance.  For example: "The problem is… Military Intelligence Soldiers are not completing status reports to include all elements specified by the standard."
+Write a problem statement to specify the gap in performance.  For example: "The problem is… Military Intelligence students are not completing status reports to include all elements specified by the standard."
 
 # Scope of the Performance Problem:
 (TP 350-70-14, Par 3-9)
