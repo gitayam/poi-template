@@ -195,37 +195,52 @@ Generalize New Information, Develop, and Apply
 
 ## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
 
-**Learning Step Activity Text:** Add lesson content here.
+#### Learning Step Activity Text:
+Add lesson content here.
 
-**Check on learning:** (Learning Step Activity (LSA) Check on learning)
+#### Check on learning: 
+(Learning Step Activity (LSA) Check on learning)
 
-**Question:** Question?
+- **Question:** Question?
 
-**Answer:** Answer.
+- **Answer:** Answer.
 
-**Review/Summary:** During this block of instruction, we...
+
+---
+
 
 ## **Learning Step Activity (LSA) 2:** Learning Step Activity (LSA) Title.
 
-**Learning Step Activity Text:** Add lesson content here.
+ 
+#### Learning Step Activity Text:
+Add lesson content here.
 
-**Check on learning:** (Learning Step Activity (LSA) Check on learning)
+#### Check on learning: 
+(Learning Step Activity (LSA) Check on learning)
 
-**Question:** Question?
+- **Question:** Question?
 
-**Answer:** Answer.
+- **Answer:** Answer.
 
-**Review/Summary:** During this block of instruction, we...
+
+---
 
 ## **Learning Step Activity (LSA) 3:** Learning Step Activity (LSA) Title.
 
-**Learning Step Activity Text:** Add lesson content here.
+ 
+#### Learning Step Activity Text:
+Add lesson content here.
 
-**Check on learning:** (Learning Step Activity (LSA) Check on learning)
+#### Check on learning: 
+(Learning Step Activity (LSA) Check on learning)
 
-**Question:** Question?
+- **Question:** Question?
 
-**Answer:** Answer.
+- **Answer:** Answer.
+
+
+---
+
 # SECTION 4: SUMMARY
 During this block of instruction, we...
 
