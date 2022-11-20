@@ -73,6 +73,7 @@ Code Blocks are also used for verbatim requirments which should not be paraphras
 To Create New Lines , especially inside a table - use \<br\> which will create a line break and continue typing. 
 
 Creating a Line Break with a Line can help when sorting content. Use three (3) - in a single line to create a line break such as this:
+
 ---
 
 Spacing and newlines can cause a differences in how Obsidian renders markdown. It is important to include a new line after a "---" line break. 
