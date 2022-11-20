@@ -93,7 +93,7 @@ Before class, play the video completely through one time. This will reduce compu
 
 Insert how this ties to the student's goals, mission, or how it makes their current operations easier, or more effective
 
-### **2. What we want our Soldiers to Achieve: (Outcomes/Standard)**
+### **2. What we want our students to Achieve: (Outcomes/Standard)**
 
 Choose anti-robbery measures that are appropriate to the scenario, based on your interpretation of both the scenario itself and the job aid. Choices must align with the anti-robbery principles taught in the lesson.
 ### 3. A Possible Technique to Achieve the Outcome
@@ -169,7 +169,7 @@ Lesson Material, Ammo, Expendable, etc.
 ## **Concrete Experience / Motivator:** 
 NOTE:Tell an interesting anecdote based on your experience, or
 recall a recent current event pertaining to the lesson unit topic to
-gain the Soldier's attention and motivate them to learn the lesson
+gain the student's attention and motivate them to learn the lesson
 material. The student should be made aware of the Army's Contemporary
 Operational Environment factors such as the physical environment,
 military capabilities, technology and information.
