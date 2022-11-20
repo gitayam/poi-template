@@ -73,6 +73,21 @@ Code Blocks are also used for verbatim requirments which should not be paraphras
 To Create New Lines , especially inside a table - use \<br\> which will create a line break and continue typing. 
 
 Creating a Line Break with a Line can help when sorting content. Use three (3) - in a single line to create a line break such as this:
+
 ---
 
 Spacing and newlines can cause a differences in how Obsidian renders markdown. It is important to include a new line after a "---" line break. 
+
+# Additional Tools and Troubleshooting
+
+## sed on MacOS
+- Problem: sed for mac is missing some options which limit cross compatibility when replacing a string. 
+- Solution: Install gnu-sed and map the PATH as needed. `brew install gnu-sed`
+
+## Replace a string in all documents 
+in directory and sub-directories at once. This action should be its own commit to easily undo any unwanted changes. 
+- Solution: 
+```BASH
+grep -RiIl 'Original_String';sleep 5;grep -RiIl 'Original_String' | xargs sed -i 's/Original_String/Replacement_New_String/g'
+```
+How to Use? Replace Original_String and Replacement_New_String above and input into Terminal inside the desired directory. 
