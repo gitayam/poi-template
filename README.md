@@ -32,7 +32,7 @@ This markdown structure is best when used with [Obsidian](https://obsidian.md/) 
 2. LanguageTool Integration (Spellcheck)
 
 To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or “Unfold”}  or configure a keyboard shortcut using the app preferences
-![](Resources/Images/Pasted image 20221116204301.png)
+
 ### ELM
 Training is designed largely based on the Experiential Learning Model (ELM) which is taught at SWCS Course Faculty Course and is a private sector standard as well.
  
@@ -68,3 +68,11 @@ Code Blocks are used for code
 Code Blocks are also used for verbatim requirments which should not be paraphrased. The code block allows an instructor to easily notice and to copy if needed.
 ```
 
+### Spacing and New Lines
+
+To Create New Lines , especially inside a table - use \<br\> which will create a line break and continue typing. 
+
+Creating a Line Break with a Line can help when sorting content. Use three (3) - in a single line to create a line break such as this:
+---
+
+Spacing and newlines can cause a differences in how Obsidian renders markdown. It is important to include a new line after a "---" line break. 

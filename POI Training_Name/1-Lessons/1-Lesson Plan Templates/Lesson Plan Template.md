@@ -4,6 +4,7 @@
 2. Use Git Repo to maintain version control, allow push, and create branches
 3. Use the Developers Workbook (Excel File) to guide analysis and develop objectivs
 4. Copy and paste 
+
 ---
 ### Instructing or Conducting Unit Training (READING)
 1. Use this lesson plan to rehearse, to identify or plan requirements, and to provide necessary onboarding to instructors
@@ -51,7 +52,7 @@ Developer Point of Contact: first.last@email.tld
 ## SCOPE OF LESSON
  %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
  
-This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state**** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures, and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments, and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
+This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures, and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments, and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 ### Terminal Learning Objective (TLO): 
@@ -82,7 +83,7 @@ Standard: Approved_Verb Object Qualifier Level of Profieciency
 # SECTION 1: **ADMINISTRATIVE DATA** 
 
 ## Instructional Guidance
-Conduct of Lesson |** NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identified reference material.
+Conduct of Lesson |**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identified reference material.
 Watch the robbery video until it bores you. This is important, because during the Concrete Experience, you should be observing the students.
 Before the lesson, set up one easel in each corner of the classroom. Place a marker set with each easel, and affix one scenario sheet (face down) to each easel.
 Before class, play the video completely through one time. This will reduce computer lag. 
@@ -231,7 +232,7 @@ During this block of instruction, we...
 
 **MOI: Discussion (small or large group)**
 
-**Check on learning: (**Terminal Learning Objective (TLO) Check on learning)
+**Check on learning**: (Terminal Learning Objective (TLO) Check on learning)
 
 **Question:** Question?
 
