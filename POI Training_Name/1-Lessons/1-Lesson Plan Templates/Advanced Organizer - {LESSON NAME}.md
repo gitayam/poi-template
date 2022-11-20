@@ -1,10 +1,45 @@
 
+# Learning Objective
+### **Action:** __Approved-Verb Object Qualifier.__
+
+### **Conditions:** 
+Given an environment that allows the students to engage
+one another and the cadre openly, handouts, and research capabilities.
+
+### **Standards:** 
+Terminal Learning Objective (TLO) Standards
+
+## Quick Information
+| Title                       | Comment |
+| --------------------------- | ------- |
+| Intended Audience           |         |
+| Learning Domain             |         |
+| Training Resources Required |         |
+
+---
+# Performance Steps
+
+## Performance_Step_Here_
+| Sub-Step      | Supporting Individual Tasks | Knowledge | Skill | Resources / Material |
+| ------------- | --------------------------- | --------- | ----- | -------------------- |
+|    SubStep_HERE           |                             |           |       |                      |
+
+## Performance_Step_Here_
+| Sub-Step      | Supporting Individual Tasks | Knowledge | Skill | Resources / Material |
+| ------------- | --------------------------- | --------- | ----- | -------------------- |
+|    SubStep_HERE           |                             |           |       |                      |
+
+## Performance_Step_Here_
+| Sub-Step      | Supporting Individual Tasks | Knowledge | Skill | Resources / Material |
+| ------------- | --------------------------- | --------- | ----- | -------------------- |
+|    SubStep_HERE           |                             |           |       |                      |
+
+
+
 
 **1.**  **Learning Objective**
 
-| **Action** (W_hat students will know or be able to do at the end of the lesson.):_
-1. Interpret What Makes a Passphrase Resistant to Cracking.
-2. Produce a Cracking-Resistant Passphrase
+| 
  |
 | --- |
 | **Condition** (_What is provided or withheld from students during training):_
@@ -22,23 +57,17 @@ Given a block of instruction, one (1) notecard per student, a writing board, Ins
 | **Training Resources Required** : Writing Board, Time Keeping Device, Instruction Slides, Computer with Access to https://timcutting.co.uk/tools/password-entropy
  |
 
-**Learning Level:** (_May not necessarily be one from each domain__.)_
 
-**(Cognitive Domain – Listed below from the lowest level to the highest level)**
+| Time | ELM Phase | Topic           |
+| ---- | --------- | --------------- |
+| 03   | CE        | Topic_Goes_Here |
+|      |           |                 |
 
-**Knowledge – Recall or recognize information**
+|                       |
+| --------------------- |
+| Phase_Topic_Goes_Here |
+|                       |
 
-**Comprehension – Understand meaning**
-
-**Application – Use or apply knowledge**
-
-**Analysis – Interpret structure, elements or relationships**
-
-**Synthesis – Create or build**
-
-**Evaluation – Assess or judge in relational terms**
-
-2. **Experiential Learning Model (ELM)** Generally _describe what you will do in each step and/or give sample questions if appropriate (i.e., P&P and Develop). Also, as you work your way through the ELM steps consider how much time you will spend in each step, realizing that some steps take longer than others._
 
 | _**TIME:03 - Concrete Experience (CE) Student Centered (SC)**_
 
