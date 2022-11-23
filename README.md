@@ -1,4 +1,6 @@
-# Download Template
+```toc
+```
+## Download Template
 1. Graphical Option: Use the Download Button Above
 1. Terminal Option (Recommended): 
 
@@ -13,19 +15,19 @@ You must navigate to be inside the directory poi-development and execute the fol
 git pull
 ```
 
-# Background of Process and Format
+## Background of Process and Format
 This structure has been developed after over a year of course development, instruction, and with TRADOC Doctrine, and the SWCS Course Developer Course referenced. Fair warining, there is a lot of reading.
 
 The structure in this notebook diverts from Doctrine and SWCS Instruction where needed based on the unique unit limitations, requirements, and size of unit training compared to training at a center of excellence (CoE)
 
-## Developing Training (Writing)
+### Developing Training (Writing)
 Start with "POI Development"  and use the provided "Developer Workbook" to analyse jobs, tasks, and the audience to be trained.
 
 ---
-## Teaching Developed Training (Reading)
+### Teaching Developed Training (Reading)
 Start with "POI Training" and Find the Lesson Plans, the Audio Visual Content, the Evaluations and set up a training area for accordingly.
 
-# How to Use This Notebook 
+## How to Use This Notebook 
 ### Obsidian 
 This markdown structure is best when used with [Obsidian](https://obsidian.md/) and the following plugins:
 1. Advanced Tables
@@ -57,12 +59,12 @@ Comments can be single line or multi-line%%
 ### Tags
 #Knowledge, #Skills, #Resources, and #SupportingTasks should be added as tags to allow for quick sorting and linking
 
-# Notes for Instructors
+## Notes for Instructors
 
 ### NOTES
 NOTE is used when an instructor is supposed to perform an action or deliver instruction to students. 
 
-## Links
+### Links
 Pages, Directories, and Files can be linked directly or using relative path formatting. 
 ![[]]
 ##FIXME: Add options for linking without absolute path
@@ -90,13 +92,13 @@ Creating a Line Break with a Line can help when sorting content. Use three (3) -
 
 Spacing and newlines can cause a differences in how Obsidian renders markdown. It is important to include a new line after a "---" line break. 
 
-# Additional Tools and Troubleshooting
+## Troubleshooting
 
-## sed on MacOS
+### sed on MacOS
 - Problem: sed for mac is missing some options which limit cross compatibility when replacing a string. 
 - Solution: Install gnu-sed and map the PATH as needed. `brew install gnu-sed`
 
-## Replace a string in all documents 
+### Replace a string in all documents 
 in directory and sub-directories at once. This action should be its own commit to easily undo any unwanted changes. 
 - Solution: 
 ```BASH
@@ -106,7 +108,7 @@ grep -RiIl 'Original_String';sleep 5;grep -RiIl 'Original_String' | xargs sed -i
 How to Use? Replace Original_String and Replacement_New_String above and input into Terminal inside the desired directory. 
 [source](https://www.internalpointers.com/post/linux-find-and-replace-text-multiple-files)
 
-## Run Git Commands on Multiple Directories
+### Run Git Commands on Multiple Directories
 - Problem: Multiple git clones, it can be easy to forget which directories need to be updated using `git pull`
 - Solution, finding ./git and running the git command on the enclosing directory
 ```BASH
