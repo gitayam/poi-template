@@ -74,6 +74,9 @@ To Create New Lines , especially inside a table - use \<br\> which will create a
 
 Creating a Line Break with a Line can help when sorting content. Use three (3) - in a single line to create a line break such as this:
 
+### Slide Movement
+`##### SLIDE`  should be used to show movement to new slide. This will allow collapsing and expanding slide instruction and will be represented on the table of contents
+
 ---
 
 Spacing and newlines can cause a differences in how Obsidian renders markdown. It is important to include a new line after a "---" line break. 
