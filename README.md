@@ -103,3 +103,11 @@ in directory and sub-directories at once. This action should be its own commit t
 grep -RiIl 'Original_String';sleep 5;grep -RiIl 'Original_String' | xargs sed -i 's/Original_String/Replacement_New_String/g'
 ```
 How to Use? Replace Original_String and Replacement_New_String above and input into Terminal inside the desired directory. 
+[source](https://www.internalpointers.com/post/linux-find-and-replace-text-multiple-files)
+
+## Run Git Commands on Multiple Directories
+- Problem: Multiple git clones, it can be easy to forget which directories need to be updated using `git pull`
+- Solution, finding ./git and running the git command on the enclosing directory
+```BASH
+find . -name .git -print -execdir git pull \;
+```
