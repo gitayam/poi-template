@@ -10,7 +10,6 @@
 1. Use this lesson plan to rehearse, to identify or plan requirements, and to provide necessary onboarding to instructors
 	1. Printing the "Advanced Organizer" for each lesson and using it as needed during the lesson is the best approach rather than printing this lesson plan.
 
-
 ---
 
 # SECTION 0: LESSON OVERVIEW
@@ -19,7 +18,6 @@ Lesson Title: **Object_HERE Verb_HERE**
 
 Program of Instruction (POI): **NUMBER-TOPIC_NAME / Version 1.0**
 
-**Effective Date**: YYYMMDD-V#
 
 Developer Point of Contact: first.last@email.tld
 
@@ -62,6 +60,7 @@ Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Profieciency 
 ```
+---
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
  ```text
 Action: Approved_Verb Object Qualifier
@@ -97,8 +96,9 @@ Insert how this ties to the student's goals, mission, or how it makes their curr
 
 Choose anti-robbery measures that are appropriate to the scenario, based on your interpretation of both the scenario itself and the job aid. Choices must align with the anti-robbery principles taught in the lesson.
 ### 3. A Possible Technique to Achieve the Outcome
-
+1. 
 ### 4. AAR Guidance for this Lesson
+1. 
 ---
 ## Lesson Requirements
 ### Instructor Requirements
@@ -195,51 +195,164 @@ Generalize New Information, Develop, and Apply
 
 ## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
 
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
 #### Learning Step Activity Text:
-Add lesson content here.
+>1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Development
+- Question:
+> /Why is knowing about MacOS and the apple terms of use important for your mission?
 
 #### Check on learning: 
-(Learning Step Activity (LSA) Check on learning)
 
-- **Question:** Question?
+-  Question: /Are you allowed to legally Virtualize or Copy MacOS?
 
-- **Answer:** Answer.
+	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
 
+-  Question: /Can Government owned MacOS whiteline computers be used for Operations? 
+	- Answer: /Yes. They also have better battery life and are common devices used globally 
 
 ---
 
+## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
 
-## **Learning Step Activity (LSA) 2:** Learning Step Activity (LSA) Title.
 
- 
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
 #### Learning Step Activity Text:
-Add lesson content here.
+>1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Development
+- Question:
+> /Why is knowing about MacOS and the apple terms of use important for your mission?
 
 #### Check on learning: 
-(Learning Step Activity (LSA) Check on learning)
 
-- **Question:** Question?
+-  Question: /Are you allowed to legally Virtualize or Copy MacOS?
 
-- **Answer:** Answer.
+	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
 
+-  Question: /Can Government owned MacOS whiteline computers be used for Operations? 
+	- Answer: /Yes. They also have better battery life and are common devices used globally 
 
 ---
 
-## **Learning Step Activity (LSA) 3:** Learning Step Activity (LSA) Title.
+## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
 
- 
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
 #### Learning Step Activity Text:
-Add lesson content here.
+>1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Development
+- Question:
+> /Why is knowing about MacOS and the apple terms of use important for your mission?
 
 #### Check on learning: 
-(Learning Step Activity (LSA) Check on learning)
 
-- **Question:** Question?
+-  Question: /Are you allowed to legally Virtualize or Copy MacOS?
 
-- **Answer:** Answer.
+	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
 
+-  Question: /Can Government owned MacOS whiteline computers be used for Operations? 
+	- Answer: /Yes. They also have better battery life and are common devices used globally 
 
 ---
+
+## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
+
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
+#### Learning Step Activity Text:
+>1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Development
+- Question:
+> /Why is knowing about MacOS and the apple terms of use important for your mission?
+
+#### Check on learning: 
+
+-  Question: /Are you allowed to legally Virtualize or Copy MacOS?
+
+	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
+
+-  Question: /Can Government owned MacOS whiteline computers be used for Operations? 
+	- Answer: /Yes. They also have better battery life and are common devices used globally 
+
+---
+
 
 # SECTION 4: SUMMARY
 During this block of instruction, we...
