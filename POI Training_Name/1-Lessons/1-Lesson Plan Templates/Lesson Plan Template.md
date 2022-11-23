@@ -166,7 +166,9 @@ Lesson Material, Ammo, Expendable, etc.
 
 ---
 
-%%!SLIDE: should be used when a slide should be presented or to make other notes of slides%%
+%%
+##### SLIDE  (5 #'s')should be used when a slide should be presented or to make other notes of slides
+%%
 # SECTION 2: LESSON INTRODUCTION
 ## **Concrete Experience / Motivator:** 
 NOTE:Tell an interesting anecdote based on your experience, or
@@ -179,31 +181,54 @@ military capabilities, technology and information.
 An example could be:
 > Example Paraphrase goes here.
 
-NOTE: Go to Slide X
-**Instructional Lead-in:** 
+##### Go to Slide X
+NOTE: 
+
+Content Here
+
+### Instructional Lead-in:
 "The learning objectives for this block are to..."
 
-NOTE: Go to Slide X
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
 
 **Scope Statement:** During this ##.##-hour block of instruction, the
 students will...
 
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
 ## Publish and Process
 
-NOTE: for 
+NOTE: Publish and Process note goes here  
 
 # SECTION 3: LESSON PRESENTATION
 Generalize New Information, Develop, and Apply
 
 ## **Learning Step Activity (LSA) 1:**  Learning Step Activity (LSA) Title.
 
-!SLIDE: Stay / Go To on Slide X
-Note: explain the importance of being familiar with MacOS
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
 #### Learning Step Activity Text:
 >1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
 #### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
 
 #### Development
 - Question:
@@ -221,15 +246,29 @@ Note: explain the importance of being familiar with MacOS
 ---
 
 
-## **Learning Step Activity (LSA) 2:** Learning Step Activity (LSA) Title.
+## **Learning Step Activity (LSA) 2:**  Learning Step Activity (LSA) Title.
 
-!SLIDE: Stay / Go To on Slide X
-Note: explain the importance of being familiar with MacOS
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
 #### Learning Step Activity Text:
 >1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
 #### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
 
 #### Development
 - Question:
@@ -246,14 +285,30 @@ Note: explain the importance of being familiar with MacOS
 
 ---
 
-## **Learning Step Activity (LSA) 3:** Learning Step Activity (LSA) Title.
-!SLIDE: Stay / Go To on Slide X
-Note: explain the importance of being familiar with MacOS
+
+## **Learning Step Activity (LSA) 3:**  Learning Step Activity (LSA) Title.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
 #### Learning Step Activity Text:
 >1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
 >2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
 
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
 #### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
 
 #### Development
 - Question:
@@ -269,6 +324,48 @@ Note: explain the importance of being familiar with MacOS
 	- Answer: /Yes. They also have better battery life and are common devices used globally 
 
 ---
+
+
+## **Learning Step Activity (LSA) 4:**  Learning Step Activity (LSA) Title.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+
+#### Learning Step Activity Text:
+>1. /MacOS is Proprietary and one of their terms of use prohibits virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
+>2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Activity
+
+##### SLIDE Go To on Slide X
+NOTE: Note goes here
+
+#### Development
+- Question:
+> /Why is knowing about MacOS and the apple terms of use important for your mission?
+
+#### Check on learning: 
+
+-  Question: /Are you allowed to legally Virtualize or Copy MacOS?
+
+	- **Answer:** /No, apply prohibits Virtualization of MacOS if not on a MacOS Device.
+
+-  Question: /Can Government owned MacOS whiteline computers be used for Operations? 
+	- Answer: /Yes. They also have better battery life and are common devices used globally 
+
+---
+
+
 
 # SECTION 4: SUMMARY
 During this block of instruction, we...
@@ -285,16 +382,20 @@ During this block of instruction, we...
 
 **Review/Summary:** During this block of instruction, we...
 # SECTION 5: STUDENT EVALUATION
+
 ## Testing Requirement
+
 NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer student to the Individual Student Assessment Plan.
 
 _You may include specifics regarding how the TLO will be assessed here, or you can refer the instructor to Appendix B – Assessment Statement and Assessment Plan._
 
 ---
 ## Student Feedback Requirement
+
 NOTE: Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer students questions about the test. Provide remedial training as needed.
 
 _If not addressed elsewhere (like in a Test Administration Guide), you may include specific areas of feedback regarding student performance compared to the TLO standards here._
+
 # APPENDIX A - Audio Visual Masters
 ### Required Audio Visual Material and Handouts
 | Sequence | Media Name              | Attachment or URL | Media Type |
@@ -302,13 +403,17 @@ _If not addressed elsewhere (like in a Test Administration Guide), you may inclu
 | -        | Total Digital Media ZIP |                   | ZIP        | 
 |          |                         | https://url.com   | PPT        |
 # APPENDIX B - Assessment Statement and Assessment Plan
+
 ## **Assessment Statement:** 
 _An abbreviated statement that identifies how the lesson’s TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP)_
 
 ---
 ## **Assessment Plan:** 
+
 _If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix._
+
 # APPENDIX C - Practical Exercises and Solutions
+
 _If the lesson has a stand-alone PE that requires coordination and detailed explanations, it can be written up here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, time required, safety and risk information, and general procedures.
 
 In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, DO NOT use this appendix._
