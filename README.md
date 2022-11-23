@@ -36,8 +36,8 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
 ### ELM
 Training is designed largely based on the Experiential Learning Model (ELM) which is taught at SWCS Course Faculty Course and is a private sector standard as well.
  
-
-If you have not been to the SWCS Course Faculty Course yet, 
+If you have not been to the SWCS Course Faculty Course yet, study the following content:
+##FIXME: add ELM content for Instructors who have not had formal training
 
 ### Academic Hour
 50 minutes is used as an “hour” to allow students to take a 10-minute break or two 5-minute breaks. 
