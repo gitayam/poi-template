@@ -13,7 +13,7 @@ You must navigate to be inside the directory poi-development and execute the fol
 git pull
 ```
 
-# NOTE
+# Background of Process and Format
 This structure has been developed after over a year of course development, instruction, and with TRADOC Doctrine, and the SWCS Course Developer Course referenced. Fair warining, there is a lot of reading.
 
 The structure in this notebook diverts from Doctrine and SWCS Instruction where needed based on the unique unit limitations, requirements, and size of unit training compared to training at a center of excellence (CoE)
@@ -47,16 +47,25 @@ Templates can be notes or entire folders. Duplicate templates as needed.
 
 ### Comments
 Comments are between percent symbols (\%%) and may describe. %%This is an inline comment%%
+
 1. Why something is included, excluded, or modified 
 2. How to properly use a section
-%%This is a comment
+%%This is a comment which... 
 
+...is...
 Comments can be single line or multi-line%%
 ### Tags
 #Knowledge, #Skills, #Resources, and #SupportingTasks should be added as tags to allow for quick sorting and linking
 
-### Notes for Instructors
-#NOTE is used when an instructor is supposed to perform an action or deliver instruction to students. 
+# Notes for Instructors
+
+### NOTES
+NOTE is used when an instructor is supposed to perform an action or deliver instruction to students. 
+
+## Links
+Pages, Directories, and Files can be linked directly or using relative path formatting. 
+![[]]
+##FIXME: Add options for linking without absolute path
 
 ### Paraphrasing
 > Quote Brackets are used to show instructor what needs to be paraphrased, a note will also provide this guidance
@@ -74,7 +83,7 @@ To Create New Lines , especially inside a table - use \<br\> which will create a
 
 Creating a Line Break with a Line can help when sorting content. Use three (3) - in a single line to create a line break such as this:
 
-### Slide Movement
+### Moving to Slides
 `##### SLIDE`  should be used to show movement to new slide. This will allow collapsing and expanding slide instruction and will be represented on the table of contents
 
 ---
