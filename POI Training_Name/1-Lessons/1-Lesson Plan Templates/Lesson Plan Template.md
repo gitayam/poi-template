@@ -62,6 +62,7 @@ Action: Approved_Verb Object Qualifier
 Condition: 
 Standard: Approved_Verb Object Qualifier Level of Profieciency 
 ```
+---
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
  ```text
 Action: Approved_Verb Object Qualifier
