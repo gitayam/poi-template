@@ -1,5 +1,4 @@
-```toc
-```
+
 ## How To Use
 ### Developing Unit Training (WRITING)
 1. Open markdown files and folders using Obsidian
