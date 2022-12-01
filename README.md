@@ -1,11 +1,14 @@
 ```toc
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Why use a Git based Unit Level Lesson Plan?
 [Git-For_Unit_Training.pdf](./Git-For_Unit_Training.pdf)
 
 ## Use Template Template
 =======
+=======
+>>>>>>> main
 
 ## Download Template
 >>>>>>> main
