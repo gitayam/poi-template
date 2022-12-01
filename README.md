@@ -1,28 +1,9 @@
--   [Download Template](app://obsidian.md/index.html#Download%20Template)
--   [Update Template](app://obsidian.md/index.html#Update%20Template)
--   [Background of Process and Format](app://obsidian.md/index.html#Background%20of%20Process%20and%20Format)
-    -   [Developing Training (Writing)](app://obsidian.md/index.html#Developing%20Training%20(Writing))
-    -   [Teaching Developed Training (Reading)](app://obsidian.md/index.html#Teaching%20Developed%20Training%20(Reading))
--   [How to Use This Notebook](app://obsidian.md/index.html#How%20to%20Use%20This%20Notebook)
-    -   [Obsidian](app://obsidian.md/index.html#Obsidian)
-    -   [ELM](app://obsidian.md/index.html#ELM)
-    -   [Academic Hour](app://obsidian.md/index.html#Academic%20Hour)
-    -   [Templates](app://obsidian.md/index.html#Templates)
-    -   [Comments](app://obsidian.md/index.html#Comments)
-    -   [Tags](app://obsidian.md/index.html#Tags)
--   [Notes for Instructors](app://obsidian.md/index.html#Notes%20for%20Instructors)
-    -   [NOTES](app://obsidian.md/index.html#NOTES)
-    -   [Links](app://obsidian.md/index.html#Links)
-    -   [Paraphrasing](app://obsidian.md/index.html#Paraphrasing)
-    -   [Verbatim Quotes and Code](app://obsidian.md/index.html#Verbatim%20Quotes%20and%20Code)
-    -   [Spacing and New Lines](app://obsidian.md/index.html#Spacing%20and%20New%20Lines)
-    -   [Moving to Slides](app://obsidian.md/index.html#Moving%20to%20Slides)
--   [Troubleshooting](app://obsidian.md/index.html#Troubleshooting)
-    -   [sed on MacOS](app://obsidian.md/index.html#sed%20on%20MacOS)
-    -   [Replace a string in all documents](app://obsidian.md/index.html#Replace%20a%20string%20in%20all%20documents)
-    -   [Run Git Commands on Multiple Directories](app://obsidian.md/index.html#Run%20Git%20Commands%20on%20Multiple%20Directories)
+```toc
+```
+## Why use a Git based Unit Level Lesson Plan?
+[Git-For_Unit_Training.pdf](./Git-For_Unit_Training.pdf)
 
-## Download Template
+## Use Template Template
 1. Graphical Option: Use the Download Button Above
 1. Terminal Option (Recommended): 
 
