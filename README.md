@@ -6,13 +6,9 @@
 
 ## Use Template Template
 
-1. Graphical Option: Use the Download Button Above
-1. Terminal Option (Recommended): 
-
-```BASH
-git clone https://gitlab.irregularchat.com/saclab/poi-development.git
-```
-
+1. Create Gitlab Account
+1. Fork Repository (Fork Button Above)
+1. Add appropriate name as needed.
 
 ## Update Template
 You must navigate to be inside the directory poi-development and execute the following command:
