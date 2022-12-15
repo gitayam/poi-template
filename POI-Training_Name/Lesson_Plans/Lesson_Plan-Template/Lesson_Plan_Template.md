@@ -1,4 +1,5 @@
-
+```toc
+```
 ## How To Use
 ### Developing Unit Training (WRITING)
 1. Open markdown files and folders using Obsidian
@@ -23,10 +24,12 @@ Program of Instruction (POI): **NUMBER-TOPIC_NAME / Version 1.0**
 Developer Point of Contact: first.last@email.tld
 
 ---
-###  IMPORTANT
+###  IMPORTANT - Classification
 
-#### Training Material Classification: UNCLASSIFIED
+Training Material Classification: UNCLASSIFIED
+ 
 ### Distribution Restriction:
+
   %%Delete all but appropriate%%
   
  - A. Approved for public release; distribution is unlimted
@@ -50,6 +53,7 @@ Developer Point of Contact: first.last@email.tld
 
 ---
 ### SCOPE OF LESSON
+
  %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
  
 This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures, and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments, and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
@@ -81,6 +85,7 @@ Standard: Approved_Verb Object Qualifier Level of Profieciency
 1. Reference_1
 2. Reference_2
 ```
+
 ## SECTION 1: **ADMINISTRATIVE DATA** 
 ## Instructional Guidance
 Conduct of Lesson |**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identified reference material.
@@ -98,7 +103,13 @@ Choose anti-robbery measures that are appropriate to the scenario, based on your
 ### 3. A Possible Technique to Achieve the Outcome
 1. 
 ### 4. AAR Guidance for this Lesson
-1. 
+Consider any of the following:
+1.  Ask the students for their overall thoughts and impressions of the lesson. This can help identify areas where the instruction was clear and engaging, as well as areas where the students may have struggled or had questions.
+2.  Ask the students to reflect on their own learning and progress throughout the lesson. This can provide insight into the students' understanding of the material and whether they were able to apply it effectively.
+3.  Ask the students for specific feedback on the instructional methods used, such as demonstrations, hands-on activities, and discussions. This can help identify the most effective methods for teaching the material and engaging the students.
+4.  Ask the students for suggestions on how to improve the lesson content and delivery. This can provide valuable input on the students' perspective and help make the lesson more effective in the future.
+5.  Use a structured feedback form or survey to gather the students' feedback in a consistent and organized manner. This can help ensure that all relevant information is gathered and can be easily analyzed and used to make improvements.
+
 ---
 ## Lesson Requirements
 ### Instructor Requirements
@@ -115,23 +126,28 @@ An instructor should idealy:
 2. Participated in this instruction as an assistant instructor for this lesson
 3. Participated in the AAR for this lesson
 
-### Additional Support Required
+###  Support  Requirments
+####  Asistant Instructor Requirements
+
+####  Asistant Instructor Guidance
+
+#### Required or Requested Support
+
 
 ---
 ### Equipment and Material Required for Instruction
 Lesson Material, Ammo, Expendable, etc.
+
 ### Equipment and Material Required for Instruction
 Lesson Material, Ammo, Expendable, etc.
-| Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
-| -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| #MacOS-Computer, #MacOS-Keyboard, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
-| #Slides                          |               |                  | 1        | no         |
-| #Projector                       |               |                  | 1        | no         |          |
-| #Terminal_app                    | 1:1           | 1:2              |          |            |
-|                                  |               |                  |          |            |
+| Equipment                                         | Student Ratio | Instructor Ratio | Quantity | Expendable |
+| ------------------------------------------------- | ------------- | ---------------- | -------- | ---------- |
+| #MacOS-Computer, #MacOS-Keyboard, #MacOS-Touchpad | 1:1           | 1:2              |          | No         |
+| #Slides                                           |               |                  | 1        | No         |
+| #Powerpoint or #LibreOffice or #Keynote           |               |                  |          |            |
+| #Projector                                        |               |                  | 1        | No         |
+| #Terminal_app                                     | 1:1           | 1:2              |          |            |
 
-
----
 
 ---
 ### Pre-Requisite Tasks
@@ -174,6 +190,9 @@ Lesson Material, Ammo, Expendable, etc.
 
 ---
 ## SECTION 2: LESSON INTRODUCTION
+
+%%The concrete experience is supposed to be an exercise where students can tinker and fail safely and in a controlled manner. The CE allows students to stumble a little and to later appreciate the lesson even more%%
+
 ## **Concrete Experience / Motivator:** 
 NOTE:Tell an interesting anecdote based on your experience, or
 recall a recent current event pertaining to the lesson unit topic to
