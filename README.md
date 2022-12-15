@@ -65,10 +65,12 @@ Comments can be single line or multi-line%%
 ### NOTES
 NOTE is used when an instructor is supposed to perform an action or deliver instruction to students. 
 
+
 ### Links
 Pages, Directories, and Files can be linked directly or using relative path formatting. 
-![[]]
-##FIXME: Add options for linking without absolute path
+!\[Title Here\]\(./relative/path/here\) - relative path links
+\[Title Here\]\(https://linkhere.tld\)
+
 
 ### Paraphrasing
 > Quote Brackets are used to show instructor what needs to be paraphrased, a note will also provide this guidance
